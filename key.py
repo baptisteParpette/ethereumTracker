@@ -1,0 +1,1 @@
+api_key_secret="CSK78D3xxxxxXXXXX" # Your API key from Etherscan
